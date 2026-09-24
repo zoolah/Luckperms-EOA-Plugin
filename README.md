@@ -25,3 +25,8 @@ A simple Minecraft (Bukkit/Spigot) plugin that makes it easy to give and remove 
 - Minecraft server with Bukkit/Spigot/Paper
 - LuckPerms (or compatible permission plugin) recommended
 
+## License
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Disclaimer
+This is an archived/old project. Use at your own risk. Not recommended for production servers without testing.
